@@ -20,12 +20,6 @@
 ![Figma](https://img.shields.io/badge/-Figma-333?style=for-the-badge&logo=figma&logoColor=F8C52C)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333?style=for-the-badge&logo=photoshop&logoColor=F8C52C)
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YaroslavPavliuk&layout=compact&theme=dark)
-
-### Статистика на GitHub
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YaroslavPavliuk&show_icons=true&hide=prs,issues,contribs&theme=dark)
-
 ### Follow Me:
 
 [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/profile.php?id=100046094658375)
